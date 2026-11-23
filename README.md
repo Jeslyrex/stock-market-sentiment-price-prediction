@@ -217,3 +217,18 @@ GitHub: [Jeslyrex](https://github.com/Jeslyrex)
 ---
 
 *Developed as a Data Analytics and Machine Learning portfolio project.*
+
+
+## Dashboard Preview
+
+### 1. Dashboard Overview
+![Dashboard Overview](screenshots/dashboard_overview.png)
+
+### 2. Sentiment Analysis
+![Sentiment Analysis](screenshots/sentiment_analysis.png)
+
+### 3. Model Performance
+![Model Performance](screenshots/model_performance.png)
+
+### 4. Prediction Results
+![Prediction Results](screenshots/prediction_results.png)
